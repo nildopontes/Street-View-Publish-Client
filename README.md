@@ -4,7 +4,7 @@ Uma API web simplificada para enviar e gerenciar fotos panorâmicas 360 para o S
 ## Alguns exemplos de uso:
 
 ### Enviar uma foto
-
+```javascript
    newToken().then(t => {
       getUploadURL(t).then(uploadUrl => {
          sendImageData(t, 'file', uploadUrl).then(() => {
@@ -12,7 +12,7 @@ Uma API web simplificada para enviar e gerenciar fotos panorâmicas 360 para o S
          });
       });
    });
-
+```
 ### Apagar uma foto
 
    newToken().then(t => {
