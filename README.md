@@ -1,7 +1,7 @@
 # pano-api
-Uma API web simplificada para enviar e gerenciar fotos panorâmicas 360 para o Street View
+Uma API web simplificada para enviar e gerenciar fotos panorâmicas 360 para o Street View utilizando a Street View Publish API.
 
-Acesse este guia do Google para criar e configurar a autenticação <https://developers.google.com/streetview/publish/first-app?hl=pt-br>
+Acesse este guia do Google para criar e configurar a autenticação <https://developers.google.com/streetview/publish/first-app?hl=pt-br>.
 
 ## Alguns exemplos de uso:
 
